@@ -1,4 +1,4 @@
-# Navya's Birthday Quest
+# Happy Birthday Navya 
 
 A pink retro Game Boy-style birthday website. Open `index.html` in a browser to preview it.
 
